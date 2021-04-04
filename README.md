@@ -23,7 +23,7 @@ Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexe
 Memory Management API, Shared memory & queue, multi-threads. 
 
 
-![](/images/flow.png)
+![](/images/flow.png  | width=100)
 
 
 
