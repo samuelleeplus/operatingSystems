@@ -14,6 +14,9 @@ Airline Reservation System, shared resources, POSIX Threads, busy waiting.
 
 Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexes (check video sample run). 
 
+![](diningPhilosophers.gif)
+
+
 ### Homework 3:
 
 Memory Management API, Shared memory & queue, multi-threads. 
