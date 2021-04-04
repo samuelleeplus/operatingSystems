@@ -17,12 +17,18 @@ Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexe
 ![](diningPhilosophers.gif)
 
 
+
 ### Homework 3:
 
 Memory Management API, Shared memory & queue, multi-threads. 
 
-![](/images/sampleRun.png)
+
+![](/images/flow.png)
+
+
 
 ### Homework 4:
 
 Memory Mapping & File Reading, fstream/istream/mmap, Speed & Performance Comparison (sample loremipsum.txt uploaded due to size limit). 
+
+![](/images/sampleRun.png)
