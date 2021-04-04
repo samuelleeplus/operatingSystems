@@ -10,7 +10,10 @@ Each project contains brief overview & explanation in source code file. Detailed
 
 Airline Reservation System, shared resources, POSIX Threads, busy waiting. 
 
+
+#### Sample Output
 ![](/images/hw1.png)
+
 
 
 
@@ -18,6 +21,7 @@ Airline Reservation System, shared resources, POSIX Threads, busy waiting.
 
 Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexes (check video sample run). 
 
+#### Sample Run
 ![](diningPhilosophers.gif)
 
 
@@ -26,7 +30,7 @@ Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexe
 
 Memory Management API, Shared memory & queue, multi-threads. 
 
-
+#### Sample Output
 ![](/images/flow.png)
 
 
@@ -35,4 +39,5 @@ Memory Management API, Shared memory & queue, multi-threads.
 
 Memory Mapping & File Reading, fstream/istream/mmap, Speed & Performance Comparison (sample loremipsum.txt uploaded due to size limit). 
 
+#### Sample Output
 ![](/images/sampleRun.png)
