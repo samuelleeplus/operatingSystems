@@ -21,6 +21,8 @@ Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexe
 
 Memory Management API, Shared memory & queue, multi-threads. 
 
+![](/images/sampleRun.png)
+
 ### Homework 4:
 
 Memory Mapping & File Reading, fstream/istream/mmap, Speed & Performance Comparison (sample loremipsum.txt uploaded due to size limit). 
