@@ -10,6 +10,10 @@ Each project contains brief overview & explanation in source code file. Detailed
 
 Airline Reservation System, shared resources, POSIX Threads, busy waiting. 
 
+![](/images/hw1.png)
+
+
+
 ### Homework 2:
 
 Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexes (check video sample run). 
@@ -23,7 +27,7 @@ Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexe
 Memory Management API, Shared memory & queue, multi-threads. 
 
 
-![](/images/flow.png  | width=100)
+![](/images/flow.png)
 
 
 
