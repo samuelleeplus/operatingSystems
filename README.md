@@ -10,7 +10,7 @@ Airline Reservation System, shared resources, POSIX Threads, busy waiting.
 
 ### Homework 2:
 
-Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexes. 
+Dining Philosophers Problem, Barriers/Cyclic Barriers, Java, Semaphores & Mutexes (check video sample run). 
 
 ### Homework 3:
 
